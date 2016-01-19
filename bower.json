@@ -1,0 +1,23 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "Varun91 <varunbhat8969@yahoo.com>"
+  ],
+  "description": "web app",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
